@@ -1,2 +1,2 @@
 # Myapp
-# Exploreing Git Hub
+# Exploring Git Hub
